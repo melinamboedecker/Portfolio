@@ -2,11 +2,11 @@
 
 Melina Boedeckers portfolio featuring 5 recent Web Development projects. 
 
-## Description
-
 ## Screenshot
 
 ## Link
 https://melinamboedecker.github.io/Portfolio/
 
 ## License
+Copyright (c) 2021 Melina Boedecker
+Licensed under the MIT license.
