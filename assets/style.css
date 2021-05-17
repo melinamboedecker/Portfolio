@@ -182,6 +182,13 @@ a img {
     padding-top: 5%;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+    padding: 0.1%;
+    font-size: 85%;
+}
+
 #contact-me {
     display: flex;
     flex-direction: row;
